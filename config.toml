@@ -1,0 +1,22 @@
+baseURL = "https://tylucie.fr/"
+languageCode = "en-us"
+title = "🏡 Ty Lucie"
+theme = "term"
+enableRobotsTXT = true
+canonifyURLs = false
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  footer = '🌲 48°24’41.2”N 3°46’15.2”W - '
+
+[params.social]
+  email = "yannick@tylucie.fr"
+  domain = "tylucie.fr"
+
+[params.fathom]
+  host = "logs.vadrouilles.co"
+  siteID = "IMJQP"
+
+[permalinks]
+  posts = "/:slug"
+  pages = "/:slug"
