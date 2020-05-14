@@ -1,21 +1,21 @@
-baseURL = "https://tylucie.fr/"
+baseURL = "https://dehors.club/"
 languageCode = "en-us"
-title = "🏡 Ty Lucie"
+title = "Dehors club"
 theme = "term"
 enableRobotsTXT = true
 canonifyURLs = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-  footer = '🌲 48°24’41.2”N 3°46’15.2”W - '
+  footer = '🏕'
 
 [params.social]
-  email = "yannick@tylucie.fr"
-  domain = "tylucie.fr"
+  email = "bonjour@dehors.club"
+  domain = "dehors.club"
 
 [params.fathom]
   host = "logs.vadrouilles.co"
-  siteID = "IMJQP"
+  siteID = "ABKTM"
 
 [permalinks]
   posts = "/:slug"
